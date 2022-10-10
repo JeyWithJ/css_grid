@@ -1,0 +1,79 @@
+header{
+    position: static;
+    display: flex;
+    flex-direction: row;
+    padding: 0%;
+    
+}
+.header{
+    background-color: darkblue;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    width: 500px;
+    height: 50px;
+    font-size: 25px;
+
+}
+.menu{
+    background-color: red;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    width: 850px;
+    height: 50px;
+    font-size: 25px;
+}
+
+.hero{
+    background-color: lightblue;
+    display: block;
+    height: 500px;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    justify-items: center;
+}
+
+.containeruno{
+    display: flex;
+    flex-direction: row;
+}
+
+.main{
+    background-color: darkblue;
+    color: white;
+    height: 350px;
+    width: 600px;
+    font-size: 25px;
+    text-align: center;
+    margin-right: 350px;
+}
+.containerdos{
+    display: flex;
+    flex-direction: column;
+}
+
+.image{
+    background-color: cyan;
+    width: 400px;
+    height: 175px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.extra{
+    background-color: lightgreen;
+    width: 400px;
+    height: 175px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.banner{
+    background-color: lightyellow;
+    display: block;
+    height: 75px;
+    text-align: center;
+    font-size: 25px;
+}
